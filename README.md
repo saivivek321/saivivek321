@@ -2,7 +2,9 @@
 Studing 2nd year B tech from National Institute of Technology Warangal,India
 
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me: saivivekkadali@gmail.com <br>  kadali_851938@student.nitw.ac.in
+- 📫 How to reach me: saivivekkadali@gmail.com <br>  kadali_851938@student.nitw.ac.in<br><br>
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)
+
 <!--
 **saivivek321/saivivek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
