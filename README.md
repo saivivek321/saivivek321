@@ -1,4 +1,4 @@
-### <h1>Hi 👋, I am Sai Vivek</h1>
+### <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Sai Vivek</h1>
 
 <h3>&emsp;&emsp; Studing 2nd year B tech from National Institute of Technology Warangal,India</h3>
 
@@ -6,6 +6,8 @@
 - 📫 How to reach me: saivivekkadali@gmail.com <br>  kadali_851938@student.nitw.ac.in<br><br>
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)
+
+
 <!--
 **saivivek321/saivivek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
