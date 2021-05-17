@@ -19,9 +19,9 @@
 <br>
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)-->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=midnight-purple)
 <!--
 **saivivek321/saivivek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
