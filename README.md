@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: saivivekkadali@gmail.com <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;kadali_851938@student.nitw.ac.in<br><br>
 
+
+
+<h3 align="left">Contact me:</h3>
 <div class="align-items-center">
 <a href="">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
@@ -17,6 +20,8 @@
 </a>
 </div>
 <br>
+
+
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)<br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)-->
