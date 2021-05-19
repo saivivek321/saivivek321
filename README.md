@@ -21,7 +21,12 @@
 <a href="facebook.com">
   <img align="left" alt="Vivek's Facebook ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-
+<a href="Whatsapp.com">
+  <img align="left" alt="Vivek's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />
+</a>
+  <a href="Twitter.com">
+  <img align="left" alt="Vivek's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 <br>
 
 
