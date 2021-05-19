@@ -18,23 +18,28 @@
 <a href="mailto:saivivekkadali@gmail.com">
   <img align="left" alt="Vivek's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</div>
+<a href="facebook.com">
+  <img align="left" alt="Vivek's Facebook ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+</a>
+
 <br>
 
 
 
 
-<h3>Github Stats:</h3>
+<h3  >Github Stats:</h3>
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)<br>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)-->
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=midnight-purple)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=midnight-purple)
 
-<h3>Github Streak:</h3>
+<h3 >Github Streak:</h3>
 <p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=jolly">
+  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=jolly">
 </p>
+
+
 
 <!--
 **saivivek321/saivivek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
