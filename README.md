@@ -1,6 +1,6 @@
-### <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Sai Vivek</h1>
+### <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Sai Vivek</h1>
 
-<h3>&emsp;&emsp; Studing 2nd year B tech CSE from National Institute of Technology Warangal,India</h3>
+<h3 align="center">Studing 2nd year B tech CSE from National Institute of Technology Warangal,India</h3><br>
 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: saivivekkadali@gmail.com <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;kadali_851938@student.nitw.ac.in<br><br>
