@@ -7,10 +7,12 @@
 
 
 
-<h3 align="left">Contact me:</h3>
+<h3 align="left">&emsp;&emsp;Contact me:</h3>
+
 <div class="align-items-center">
+
 <a href="">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -32,18 +34,18 @@
 
 
 
-<h3  >Github Stats:</h3>
+<h3  >&emsp;&emsp;Github Stats:</h3>
 
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=gotham)
+&emsp;&emsp;&emsp;&emsp;![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=gotham)
 <!--  &emsp;&emsp;&emsp;&emsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=midnight-purple)
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=gotham)
+&emsp;&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=gotham)
 
-<h3 >Github Streak:</h3>
+<h3 >&emsp;&emsp;Github Streak:</h3>
 <p>
-  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=gotham">
+ &emsp;&emsp;&emsp;&emsp; <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=gotham">
 </p>
 
 
