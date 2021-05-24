@@ -20,7 +20,7 @@
 <a href="mailto:saivivekkadali@gmail.com">
   <img align="left" alt="Vivek's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="facebook.com">
+<a href="https://www.facebook.com/sai.vivek.9212/">
   <img align="left" alt="Vivek's Facebook ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 <!-- <a href="Whatsapp.com">
