@@ -43,11 +43,11 @@
  -->
 &emsp;&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=gotham)
 
-<h3 >&emsp;&emsp;Github Streak:</h3>
+<!-- <h3 >&emsp;&emsp;Github Streak:</h3>
 <p>
  &emsp;&emsp;&emsp;&emsp; <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=gotham">
 </p>
-
+ -->
 
 
 <!--
