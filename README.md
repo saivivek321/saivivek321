@@ -25,16 +25,16 @@
 
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=saivivek321&show_icons=true&theme=gotham)
-
+<!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&theme=gotham)
-
-<!-- &emsp;&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=gotham) -->
-
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saivivek321&layout=compact&theme=gotham) 
+<!--
 <h3 >&emsp;&emsp;Github Streak:</h3>
 <p>
 <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=saivivek321&theme=gotham">
 </p>
-
+-->
 
 
 <!--
